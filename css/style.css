@@ -1,4 +1,11 @@
 /*** Spinner Start ***/
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Playfair+Display&display=swap');
+.title{
+    font-family: 'Ephesis', cursive;
+}
+.h1-title{
+    font-family: 'Playfair Display', serif;
+}
 
 #spinner {
     opacity: 0;
